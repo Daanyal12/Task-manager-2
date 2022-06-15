@@ -10,12 +10,12 @@ This prgram is now updated to be more efficient as the inputs are now functions 
 
 this program is updated to allow the user to generate reports will create a new text file with data that will be presented to the user
 
--Registering a user
--adding a task
--view all tasks
--view my tasks
--exit
--statistics
--generate reports
+- Registering a user
+- adding a task
+- view all tasks
+- view my tasks
+- exit
+- statistics
+- generate reports
 
 this program is very straight forward and easy to use
